@@ -542,7 +542,7 @@ body {
 .yui-gf:after {
     content: ".";
     display: block;
-    height: 0;
+    height: 70;
     clear: both;
     visibility: hidden;
 }
